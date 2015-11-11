@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 A new directory appears named .git and it stores data about files that are commited
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers an area where to put temporal changes
